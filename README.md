@@ -1,7 +1,7 @@
 # SQL
-INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024
+##INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024
 
-About This Project:
+###About This Project:
 This project uses SQL to analyze the 2024 Indian General Election results. It answers important questions like:
 How many seats each party or alliance won?
 Which state had how many seats?
@@ -9,7 +9,7 @@ Who was the winning and runner-up candidate?
 What was the vote margin?
 How many EVM and postal votes were there?
 
-What I Learned:
+###What I Learned:
 Writing SQL queries using SELECT, JOIN, GROUP BY, and ORDER BY
 Using CASE and IF conditions to find specific results
 Using CTE (Common Table Expressions) to find top candidates
