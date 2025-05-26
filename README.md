@@ -1,4 +1,4 @@
-# 🇮🇳 India General Elections 2024 - SQL Analysis
+# IN India General Elections 2024 - SQL Analysis
 
 ## 📋 Project Title:
 **India General Elections Result Analysis 2024**
